@@ -1,5 +1,7 @@
 # Reader
 
+CA: 9VU844msPRUMhndBmHq8N9zFdJ9f76ZjLGf1AsrQpump
+
 Your LLMs deserve better input.
 
 Reader does two things:
