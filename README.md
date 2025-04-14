@@ -1,6 +1,6 @@
 # Reader
 
-CA: 9VU844msPRUMhndBmHq8N9zFdJ9f76ZjLGf1AsrQpump
+CA:
 
 Your LLMs deserve better input.
 
